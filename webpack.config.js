@@ -24,7 +24,7 @@ module.exports = {
     extensions: [".js", ".ts", ".tsx"],
   },
   devServer: {
-    port: 8080,
+    port: 7070,
     open: true,
     historyApiFallback: {
       rewrites: [{ from: /^\/*/, to: "/" }],
