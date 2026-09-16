@@ -1,25 +1,9 @@
-# React + Typescript minimum template
+# Battle Cats Normal Rolls
 
-## Install packages
+Battle Cats normal seed tracking server with high-performance Rust seeker.
 
-```
-$ npm i
-```
+## Prerequisites
 
-## Run dev server
-
-Dev server running on localhost:8080.
-
-```
-$ npm run dev
-```
-
-### Change running port
-
-Edit `devServer.port` on webpack.config.js.
-
-## build
-
-```
-$ npm run build
-```
+To build this project from source, ensure you have the following installed on your system:
+- Git
+- Rust & Cargo (latest stable release recommended)
